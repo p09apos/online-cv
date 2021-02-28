@@ -43,7 +43,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I would like to make use of my IT skills in order to evolve and persue a career in the IT field
+      Combine my organizational, communication skills along with my newly aquired IT skills in order to persue a career in the IT field.
 education:
     - degree: MSc in Library & Archives Science
       university: Ionian University - Department of Archives, Library Science and Museology
@@ -92,11 +92,14 @@ skills:
       - name: MS Office
         level: 100%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Metadata 
+        level: 100%
+        
+      - name: XML
+        level: 99%
 
-      - name: C 
-        level: 98%
+      - name: C Programming
+        level: 95%
 
       - name: HTML5 & CSS
         level: 95%
