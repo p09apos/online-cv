@@ -40,7 +40,7 @@ p {
     background: $theme-color;
     position: absolute;
     right: 0;
-    width: 280px;
+    width: 280px; /* was 280 */
     height: 100%;
     min-height: 800px;
     color: #fff;
@@ -55,7 +55,7 @@ p {
         color: #fff;
     }
     .name {
-        font-size: 32px;
+        font-size: 28px; /* was 32px */
         font-weight: 900;
         margin-top: 0;
         margin-bottom: 10px;
