@@ -1,0 +1,21 @@
+@page {
+  size: A4; /* Change from the default size of A4 */
+  margin: 0cm; /* Set margin on each page */
+  padding: 0cm; /* Set padding on each page */
+}
+
+html {
+  color: #393939;
+  font-family: Fira Sans;
+  font-size: 8pt;
+  font-weight: 300;
+  line-height: 1.5; 
+  margin:0px;
+  padding:0px;
+  width:100%;
+
+}
+  html body h1 {
+    color: #fbc847;
+    font-family: Comic Sans;
+    font-size: 20pt;}
