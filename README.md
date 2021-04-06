@@ -1,1 +1,1 @@
-My CV [https://p09apos.github.io/online-cv/]
+My uodated CV [https://p09apos.github.io/online-cv/]
